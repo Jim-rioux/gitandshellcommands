@@ -17,3 +17,5 @@
 - git configure --global
 
 - git remote add origin https://token@URL
+
+- git
