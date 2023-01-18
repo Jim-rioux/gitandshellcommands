@@ -13,3 +13,7 @@
 ##  Configuration Commands
 
 - git configure --global
+
+- git configure --global
+
+- git remote add origin https://token@URL
